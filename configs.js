@@ -3,8 +3,8 @@ module.exports = {
     title: 'My Blog',
     description: 'Blog of mine',
     author: {
-      name: 'Zeyad Etman',
-      avatar: 'https://pbs.twimg.com/profile_images/1166663145118732288/BtHLImve_400x400.jpg',
+      name: 'Abdo',
+      avatar: 'https://media.licdn.com/dms/image/C5603AQGo4bJ03Qt6EA/profile-displayphoto-shrink_200_200/0?e=1583366400&v=beta&t=zuUrzWs0Mf7ipjD-Q4gKBQvY-9vlm7KyOriUNt_ahI0',
       title: 'Software Engineer',
       twitter: 'zeyadetman',
       github: 'zeyadetman',
